@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+ul{
+	background-color: white;
+	width: 400px;
+	height: 550px;
+	border: 1px solid whitesmoke;
+	margin-left: 65px;
+}
+li{
+	list-style: square;
+	padding: 10px;
+	border-bottom: 1px solid whitesmoke; 
+	font-family: sans-serif;
+}
